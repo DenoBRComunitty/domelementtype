@@ -1,4 +1,4 @@
-** Types of elements found in the DOM */
+/** Types of elements found in the DOM */
 export const enum ElementType {
     Text = "text", //Text
     Directive = "directive", //<? ... ?>
